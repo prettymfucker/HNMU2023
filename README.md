@@ -1,2 +1,2 @@
 # HNMU2023
-Tập huấn SV - CBL HNMU.
+App Thư Viện HNMU - đa tính năng, tiện lợi cho sinh viên - giáo viên.
